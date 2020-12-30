@@ -126,4 +126,4 @@ client.on("ready", () => {
 })
 
 
-client.login(token)
+client.login('NzkzOTg4OTgyMDU2Mjg4Mjg2.X-0R3A.bjy0lj9bCvkQCX9-RqorRXlOyu8')
